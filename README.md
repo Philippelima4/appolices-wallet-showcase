@@ -34,37 +34,18 @@ The project is built and operated as a solo developer-entrepreneur effort, combi
 
 ---
 
-## 🏗️ Architecture
+## 📸 Screenshots
 
-```
-┌─────────────────────────────────────────────────────────┐
-│                        CLIENT                           │
-│         React 18 + Vite + Material UI (PWA)             │
-│              Deployed on Vercel                          │
-│         wallet.appolices.pt                             │
-└───────────────────┬─────────────────────────────────────┘
-                    │ REST API
-┌───────────────────▼─────────────────────────────────────┐
-│                       BACKEND                           │
-│              Strapi v5 (Node.js)                        │
-│              Deployed on Render                          │
-│                                                         │
-│  ┌─────────────┐  ┌──────────────┐  ┌───────────────┐  │
-│  │ Email       │  │  OCR         │  │  PDF          │  │
-│  │ Scanner     │  │  Pipeline    │  │  Generator    │  │
-│  │ (IMAP)      │  │  (GPT-4o)    │  │  (jsPDF)      │  │
-│  └─────────────┘  └──────────────┘  └───────────────┘  │
-└──────┬──────────────────┬───────────────────┬───────────┘
-       │                  │                   │
-┌──────▼──────┐  ┌────────▼────────┐  ┌───────▼──────────┐
-│    Neon     │  │   Cloudinary    │  │     Resend       │
-│ PostgreSQL  │  │  File Storage   │  │  Transactional   │
-│             │  │  (PDFs/Docs)    │  │     Email        │
-└─────────────┘  └─────────────────┘  └──────────────────┘
-```
+<div align="center">
+  <img src="./screenshots/1.png" width="180"/>
+  <img src="./screenshots/2.png" width="180"/>
+  <img src="./screenshots/3.png" width="180"/>
+  <img src="./screenshots/4.png" width="180"/>
+  <img src="./screenshots/5.png" width="180"/>
+</div>
+
 
 ---
-
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
