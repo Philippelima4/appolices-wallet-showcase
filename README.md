@@ -153,6 +153,6 @@ This project is also the subject of a final degree project (*Trabalho Final de L
 ## 👨‍💻 Author
 
 **Philippe Lima António**
-Insurance Broker · Full-Stack Developer · Marketing Student
+Insurance Broker · Marketing 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/philippe-limaa)
