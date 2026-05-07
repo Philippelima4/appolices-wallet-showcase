@@ -37,7 +37,7 @@ The project is built and operated as a solo developer-entrepreneur effort, combi
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="./screenshots/1.png" width="180"/>
+  <img src="./screenshots/Captura de ecrã 2026-05-07 à(s) 17.01.36.png" width="180"/>
   <img src="./screenshots/2.png" width="180"/>
   <img src="./screenshots/3.png" width="180"/>
   <img src="./screenshots/4.png" width="180"/>
